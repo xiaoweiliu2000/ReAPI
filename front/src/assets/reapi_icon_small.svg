@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- 由 Microsoft Visio, SVG Export 生成 reapi_icon_small.svg Page-1 -->
+
+<svg
+   width="0.45666599in"
+   height="0.65217268in"
+   viewBox="0 0 32.879839 46.956501"
+   xml:space="preserve"
+   color-interpolation-filters="sRGB"
+   class="st3"
+   version="1.1"
+   id="svg37"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"><defs
+   id="defs41" />
+	<v:documentProperties
+   v:langID="2052"
+   v:metric="true"
+   v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud
+   v:nameU="msvSubprocessMaster"
+   v:prompt=""
+   v:val="VT4(Rectangle)" />
+			<v:ud
+   v:nameU="msvNoAutoConnect"
+   v:val="VT0(1):26" />
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style
+   type="text/css"
+   id="style2">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:6.375}
+		.st2 {fill:#0070c0;stroke:#0070c0;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g
+   v:mID="0"
+   v:index="1"
+   v:groupContext="foregroundPage"
+   id="g35"
+   transform="translate(-27.758503,-27.808498)">
+		<v:userDefs>
+			<v:ud
+   v:nameU="msvThemeOrder"
+   v:val="VT0(0):26" />
+		</v:userDefs>
+		<title
+   id="title4">页-1</title>
+		<v:pageProperties
+   v:drawingScale="0.0393701"
+   v:pageScale="0.0393701"
+   v:drawingUnits="24"
+   v:shadowOffsetX="8.50394"
+   v:shadowOffsetY="-8.50394" />
+		<v:layer
+   v:name="设备"
+   v:index="0" />
+		<v:layer
+   v:name="电器"
+   v:index="1" />
+		<v:layer
+   v:name="常用图标"
+   v:index="2" />
+		<g
+   id="group1000-1"
+   transform="translate(18,-24.375)"
+   v:mID="1000"
+   v:groupContext="group">
+			<title
+   id="title6">工作表.1000</title>
+			<g
+   id="group25-2"
+   v:mID="25"
+   v:groupContext="group">
+				<title
+   id="title8">工作表.25</title>
+				<g
+   id="shape27-3"
+   v:mID="27"
+   v:groupContext="shape"
+   transform="translate(18.7085,-6.42443)">
+					<title
+   id="title10">工作表.27</title>
+					<path
+   d="M 13.16,95.35 H 1.85 C 0.8,95.41 0,96.31 0.06,97.36 c 0.06,0.96 0.83,1.73 1.79,1.78 h 11.31 c 1.05,-0.06 1.85,-0.96 1.79,-2.01 -0.06,-0.96 -0.82,-1.72 -1.79,-1.78 z"
+   class="st1"
+   id="path12" />
+				</g>
+				<g
+   id="shape28-5"
+   v:mID="28"
+   v:groupContext="shape"
+   transform="translate(22.1074)">
+					<title
+   id="title15">工作表.28</title>
+					<path
+   d="m 4.11,99.14 c 2.15,0 3.93,-1.65 4.1,-3.79 H 0 c 0.17,2.14 1.96,3.79 4.11,3.79 z"
+   class="st1"
+   id="path17" />
+				</g>
+				<g
+   id="shape29-7"
+   v:mID="29"
+   v:groupContext="shape"
+   transform="translate(9.75829,-12.8465)">
+					<title
+   id="title20">工作表.29</title>
+					<path
+   d="M 32.88,81.83 V 81.27 C 32.71,72.29 25.42,65.09 16.44,65.03 7.46,65.09 0.17,72.29 0,81.27 v 0.56 c 0.06,1.95 0.45,3.87 1.14,5.69 0.67,1.72 1.64,3.3 2.86,4.68 1.5,1.63 3.15,4.82 3.84,6.24 0.22,0.43 0.66,0.7 1.14,0.7 H 23.9 c 0.48,0 0.92,-0.27 1.13,-0.7 0.7,-1.42 2.34,-4.6 3.85,-6.24 1.22,-1.38 2.19,-2.96 2.85,-4.68 0.7,-1.82 1.09,-3.74 1.15,-5.69 z m -3.79,-0.06 c -0.05,1.52 -0.34,3.01 -0.87,4.42 -0.5,1.28 -1.22,2.45 -2.13,3.47 -1.46,1.74 -2.72,3.64 -3.73,5.67 H 10.52 C 9.52,93.3 8.27,91.39 6.83,89.65 5.92,88.62 5.19,87.45 4.7,86.17 4.15,84.76 3.84,83.27 3.79,81.75 v -0.47 c 0.12,-6.9 5.72,-12.45 12.63,-12.49 6.9,0.04 12.51,5.59 12.63,12.49 z"
+   class="st1"
+   id="path22" />
+				</g>
+			</g>
+			<g
+   id="group37-9"
+   transform="translate(18.4064,-27.152)"
+   v:mID="37"
+   v:groupContext="group"
+   v:layerMember="2">
+				<v:userDefs>
+					<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(17):26" />
+					<v:ud
+   v:nameU="visAltText"
+   v:prompt=""
+   v:val="VT4(云)" />
+					<v:ud
+   v:nameU="visAltDescription"
+   v:prompt=""
+   v:val="VT4(云图标。)" />
+					<v:ud
+   v:nameU="Font"
+   v:prompt=""
+   v:val="VT0(243):26" />
+				</v:userDefs>
+				<title
+   id="title26">云.228</title>
+				<g
+   id="shape38-10"
+   v:mID="38"
+   v:groupContext="shape"
+   v:layerMember="2">
+					<title
+   id="title28">工作表.38</title>
+					<path
+   d="m 13.45,94.7 c -0.06,0 -0.13,0 -0.19,0 0,0 0,0 0,0 0,-0.91 -0.44,-1.74 -1.15,-2.26 C 11.37,91.93 10.44,91.8 9.59,92.09 8.9,90.73 7.36,90.03 5.89,90.38 c -1.47,0.35 -2.53,1.68 -2.53,3.21 0,0 0,0.02 0,0.03 -1.01,-0.16 -2.02,0.26 -2.64,1.08 -0.61,0.83 -0.72,1.91 -0.3,2.84 0.44,0.92 1.36,1.53 2.37,1.58 v 0.02 h 10.64 c 1.21,0 2.2,-0.99 2.2,-2.21 0,-1.22 -0.97,-2.23 -2.18,-2.23 z"
+   class="st2"
+   id="path30" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
