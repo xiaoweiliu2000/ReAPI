@@ -24,7 +24,7 @@ ReAPI is a free, open knowledge base and an experimental online cloud API comple
 
 ## Deployment
 
-All the components can be deployed with Docker. Note that before package the contents of a directory as a docker container, you may have to unzip datasets, node modules or other content, and download necessary python packages.
+All the components can be deployed with Docker. Note that before package the contents of a directory as a docker container, you may have to unzip the datasets and download necessary python or node packages.
 
 ## Thanks
 
